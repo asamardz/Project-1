@@ -1,0 +1,20 @@
+*{	background-color:white;
+	color: black;
+	margin-left: 10px;
+	}
+
+h1 {color: black; font-size: 18pt; font-family:"Helvetica";}
+
+h2 {color: black; font-size: 14pt; font-family:"Helvetica";}
+
+ul#contact, ul#education, ul#experience, ul#technology, li{list-style-type:none; font-size: 9.5pt;}
+
+.list-item{margin-bottom:10px}
+
+p {	width: 600px;
+	font-size: 11pt;
+	font-weight: normal;
+	font-style: normal;
+	text-align: justify;
+	font-family:"Times New Roman";
+	}

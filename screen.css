@@ -1,0 +1,29 @@
+*{	background-color:#dcdffb; 
+	color: black; 
+	font-family:"Helvetica";
+	margin-left: 10px;
+	}
+
+h1, h2 {color:#1486DE;}
+
+h2 {font-size: 14pt;}
+
+ul#contact, ul#education, ul#experience, ul#technology, li{list-style-type:none;}
+
+p {	width: 600px;
+	font-size: 11pt;
+	font-weight: normal;
+	font-style: normal;
+	text-align: justify;
+	}
+
+.list-item{margin-bottom:10px}
+
+
+
+
+
+
+
+
+	
